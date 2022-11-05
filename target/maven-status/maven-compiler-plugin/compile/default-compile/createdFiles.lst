@@ -1,0 +1,4 @@
+br\com\adamis\controller\TutorialController.class
+br\com\adamis\ServletInitializer.class
+br\com\adamis\StartApplication.class
+br\com\adamis\config\SwaggerConfig.class
